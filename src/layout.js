@@ -2,18 +2,6 @@ import keys from './keys.json';
 
 const keysInRows = [14, 15, 13, 13, 9];
 
-// export default class Elem {
-//   constructor(tag, cssClass, inner) {
-//     this.elem = document.createElement(tag);
-//     this.elem.classList.add(cssClass);
-//     this.elem.innerHTML = inner;
-//   }
-
-//   paste(parent) {
-//     parent.append(this.elem);
-//   }
-// }
-
 export default function pasteLayout() {
   const WRAPPER = document.createElement('div');
   WRAPPER.classList.add('wrapper');

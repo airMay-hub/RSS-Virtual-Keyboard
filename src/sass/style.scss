@@ -24,6 +24,7 @@ body {
 
 .output {
   border: 3px solid rgba(241, 241, 241, 0.5);
+  color: #f1f1f1;
 }
 
 .hidden {
@@ -80,4 +81,10 @@ body {
 
 .Space {
   width: 21.6rem;
+}
+
+.press {
+  border-radius: 50%;
+  box-shadow: 0px 0px 10px 0px rgba(241, 241, 241, 1);
+  border: 3px solid rgba(241, 241, 241, 1);
 }
