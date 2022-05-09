@@ -1,6 +1,6 @@
 import keys from './keys.json';
 
-const keysInRows = [14, 15, 13, 13, 9];
+const keysInRows = [14, 14, 13, 13, 9];
 
 export default function pasteLayout() {
   const WRAPPER = document.createElement('div');
