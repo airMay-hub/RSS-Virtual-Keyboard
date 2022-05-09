@@ -420,21 +420,6 @@
     }
   },
   {
-    "key": "Delete",
-    "key__rus": {
-      "caseDown": "Del",
-      "caseUp": "Del",
-      "caps": "Del",
-      "shiftCaps": "Del"
-    },
-    "key__eng": {
-      "caseDown": "Del",
-      "caseUp": "Del",
-      "caps": "Del",
-      "shiftCaps": "Del"
-    }
-  },
-  {
     "key": "CapsLock",
     "key__rus": {
       "caseDown": "CapsLock",
@@ -872,16 +857,16 @@
   {
     "key": "Space",
     "key__rus": {
-      "caseDown": "",
-      "caseUp": "",
-      "caps": "",
+      "caseDown": " ",
+      "caseUp": " ",
+      "caps": " ", 
       "shiftCaps": ""
     },
     "key__eng": {
-      "caseDown": "",
-      "caseUp": "",
-      "caps": "",
-      "shiftCaps": ""
+      "caseDown": " ",
+      "caseUp": " ",
+      "caps": " ",
+      "shiftCaps": " "
     }
   },
   {
